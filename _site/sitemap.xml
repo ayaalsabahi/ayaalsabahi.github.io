@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/al-folio/blog/2021/first-sem/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/blog/2021/first-sem/</loc>
 <lastmod>2021-12-20T00:00:00+04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/al-folio/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/al-folio/art-protfolio/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/art-protfolio/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/al-folio/cv/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/al-folio/projects/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/al-folio/repositories/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/repositories/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/al-folio/blog/category/uni/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/blog/category/uni/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/al-folio/blog/2021/</loc>
+<loc>http://localhost:4000/https://ayaalsabahi.github.io/blog/2021/</loc>
 </url>
 </urlset>
