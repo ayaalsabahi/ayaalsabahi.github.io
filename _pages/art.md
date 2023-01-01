@@ -7,7 +7,7 @@ description:
 nav: true
 
 ---
-Small note, all work belongs to Aya Al Sabahi, please do not use any of my work without permission.
+Small note, all work belongs to Aya Al Sabahi, please do not use or post any of my work without permission.
 
 Thank You.
 
