@@ -1,15 +1,13 @@
 ---
 layout: page
 permalink: /art-protfolio/
-title: art protfolio
+title: art
 description: 
 #Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
 
 ---
-Small note, all work belongs to Aya Al Sabahi, please do not use or post any of my work without permission.
-
-Thank You.
+All work belongs to Aya Al Sabahi, please do not use or post any of my work without permission.
 
 #### The Human Archive Collection
 <div class="row mt-3">

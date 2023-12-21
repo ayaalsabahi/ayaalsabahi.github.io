@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A work in progress, meanwhile, checkout my github!
+description: find the behind the scenes of my Nora & Bibiborg in Artstation
 nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
+display_categories: 
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
