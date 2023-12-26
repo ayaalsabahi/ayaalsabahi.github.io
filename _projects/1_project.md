@@ -8,6 +8,11 @@ tag: work
 ---
 
 {% raw %}
+
+<iframe src="https://drive.google.com/uc?id=1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe>
+
+[behind the scenes](https://www.artstation.com/artwork/1xV6O2)
+
 ## <span style="color: #54717a;">Motivation</span>
 I absolutely love things where humans, technology, and emotion intersect, things like Detroit: Become Human and The Terminator.
 

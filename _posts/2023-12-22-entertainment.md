@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Must Reads, Watch, & Play
+title: Must Reads, Watch & Play
 permalink: 
 date: 2023-12-22
 description: with reasons why of course
@@ -22,7 +22,7 @@ I sometimes pretend I'm a really hardcore game critic.
 
 ## <span style="color: #54717a;">Books & Comics</span>
 Comics:
-- V for Vendetta (comic): 🧠💥
+- V for Vendetta - 🧠💥
 
 Books:
 
