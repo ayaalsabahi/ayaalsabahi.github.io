@@ -5,7 +5,8 @@ permalink: /
 subtitle: Omani artist & computer scientist
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
+
 ---
 {% raw %}
 Hi, I'm Aya, a third year computer science student at Carnegie Mellon Univeristy with a minor in game design!
