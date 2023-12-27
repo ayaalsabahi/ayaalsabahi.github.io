@@ -7,6 +7,9 @@ image: assets/img/game-cover.png
 tag: work
 ---
 
+<iframe src="https://drive.google.com/uc?id=1EmwMquSb2kjVmD0ZtlthtQI0ityXOElV" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe>
+
+
 ## <span style="color: #54717a;">Motivation</span>
 Like many other devs & artists, I had a bunch of half - done or almost done projects, with not many that were polished. I really wanted to create something that was from games I loved playing with it being a bit simplified that is open world, has multiple quests and a theme of repetition of ending things to reaching where they are at the end of the day. 
 
