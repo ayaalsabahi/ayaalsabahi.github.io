@@ -7,7 +7,7 @@ image:
 tag: work
 ---
 
-[project link](thttps://github.com/ayaalsabahi/FreshmanImmigrationPlanner)
+[project link](https://github.com/ayaalsabahi/FreshmanImmigrationPlanner)
 
 ## <span style="color: #54717a;">Motivation</span>
 I struggled A LOT in my first semester in Univeristy, to the extent where I wanted to create something that helped me out as well as other freshman. 
