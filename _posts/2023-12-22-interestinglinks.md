@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting Links
-permalink: 
+permalink: /
 date: 2023-12-22
 description: simply the title
 tags: false
