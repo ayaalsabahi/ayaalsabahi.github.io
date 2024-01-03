@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Must Reads, Watch & Play
-permalink: /
+permalink: /testing/
 date: 2023-12-22
 description: with reasons why of course
 tags: false
