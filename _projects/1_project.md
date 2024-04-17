@@ -9,7 +9,7 @@ tag: work
 
 {% raw %}
 
-<iframe src="https://drive.google.com/uc?id=1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/view?usp=share_link" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe>
 
 [behind the scenes (artstation)](https://www.artstation.com/artwork/1xV6O2)
 
