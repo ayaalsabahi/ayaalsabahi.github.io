@@ -32,6 +32,8 @@ Play as rival newscasters fighting to sabotage the others’ career! Hack the ot
 **Core mechanics:**
 Hack the enemy teleprompter and make your enemy fumble when it comes to their turn to deliver the news. A swapping mechanism of players 'hacking' then guessing. With 5 strikes, you're out and fired! 
 
+I programmed in mechanics, along with my partners Cami & Dimtrios. 
+
 **Art:**
 All credits to Kai & Isabel. 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nora's Search
+title: Nora's Search [WIP]
 importance: 3
 description: winter break project
 image:
