@@ -47,7 +47,7 @@ Mac
 - Maya
 
 ## <span style="color: #54717a;">Motivation</span>
-
+Making a basketball game
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
-
+Three week project 
