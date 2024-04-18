@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nora's Search
-importance: 1
+importance: 3
 description: winter break project
 image:
 tag: work
