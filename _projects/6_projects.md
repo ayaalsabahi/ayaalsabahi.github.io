@@ -22,7 +22,8 @@ tag: work
 </div>
 
 [project link ](https://globalgamejam.org/games/2024/tvt-livewire-rivals-1)
-[codebase link (github)] (https://github.com/ayaalsabahi/rivals-gamejam-s24)
+[github] (https://github.com/ayaalsabahi/rivals-gamejam-s24)
+
 
 ## <span style="color: #daa520;"> Design Process </span>
 
@@ -45,7 +46,6 @@ Mac
 ## <span style="color: #3d5a80;">Technology Used</span>
 - C#
 - Unity
-- Maya
 
 ## <span style="color: #54717a;">Motivation</span>
 Theme of the jam: "Make me laugh" 
