@@ -11,13 +11,13 @@ tag: work
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rivals/start.gif" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/start.gif" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rivals/Sreenshot.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/Sreenshot.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rivals/ingame.gif" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/ingame.gif" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 
