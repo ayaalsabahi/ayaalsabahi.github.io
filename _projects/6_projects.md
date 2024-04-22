@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TvT: Livewire rivals 
+title: TvT, Livewire rivals 
 importance: 2
 description: 2D Unity Game
 image: 
@@ -22,8 +22,6 @@ tag: work
 </div>
 
 [project link ](https://globalgamejam.org/games/2024/tvt-livewire-rivals-1)
-[github] (https://github.com/ayaalsabahi/rivals-gamejam-s24)
-
 
 ## <span style="color: #daa520;"> Design Process </span>
 

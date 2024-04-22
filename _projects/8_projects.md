@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Eating Ducks [work in progress]
+title: The Ugly Duckling [work in progress]
 importance: 1
-description: 3D game inspired by the ugly duckling
+description: 3D game inspired by the ever famous fairytale, The Ugly Duckling, coming April 26th 2024
 image: 
 tag: work
 ---
