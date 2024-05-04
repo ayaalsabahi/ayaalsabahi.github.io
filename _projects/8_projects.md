@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Ugly Duckling [work in progress]
+title: Embiggend Indignant Cygnet
 importance: 1
 description: 3D game inspired by the ever famous fairytale, The Ugly Duckling, coming April 26th 2024
 image: 
@@ -10,21 +10,25 @@ tag: work
 
 
 
-[project link (github)](https://github.com/ayaalsabahi/FreshmanImmigrationPlanner)
+[project link (github)](https://github.com/ayaalsabahi/Ugly-Duckling-Game)
 
 ## <span style="color: #daa520;"> Design Process </span>
 
 **Game concept:** 
 
-**Core mechanics:**
+I created the AI of police ducks and normal ducks of fleeing as well as chasing the player, UI of the game, eating mechanic, and sound design. 
 
+**Core mechanics:**
+Walk around as you eat ducks and collect cool shades and a hat. 
 
 **Art:**
-
+All credits to Kai & Isabel, we really took inspiration from the untitled goose game. 
 
 **Controls:** 
+WASD
 
 **Platform:** 
+Mac 
 
 ## <span style="color: #3d5a80;">Technology Used</span>
 - C#
@@ -35,3 +39,4 @@ tag: work
 
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
+Three weeks 

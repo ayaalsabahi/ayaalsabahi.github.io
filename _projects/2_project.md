@@ -13,7 +13,7 @@ One of my favourite aspect in games is when they do a pan in during cut scenes, 
 I wanted to sort explore how exactky hair works in game engines as well as incoorperating cut scenes.
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
-- Roughly 2 weeks of focused work, and is currently a passion project
+Currently a passion project
 
 ## <span style="color: #3d5a80;">Technology Used</span>
 - Zbrush for initial scuplt
