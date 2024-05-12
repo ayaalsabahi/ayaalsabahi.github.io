@@ -2,7 +2,7 @@
 layout: page
 title: Embiggend Indignant Cygnet
 importance: 1
-description: 3D game inspired by the ever famous fairytale, The Ugly Duckling, coming April 26th 2024
+description: 3D game inspired by the ever famous fairytale, The Ugly Duckling
 image: 
 tag: work
 ---
