@@ -8,7 +8,6 @@ tag: work
 ---
 
 
-![In Game Picture](assets/img/ugly-duckling.png)
 
 [trailer video](https://drive.google.com/file/d/19c6-0ZyIS2MwlgJE-lGgCtEzEWUBUn4i/view?resourcekey)
 
