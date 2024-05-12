@@ -21,7 +21,7 @@ tag: work
     </div>
 </div>
 
-[project link (github)](https://github.com/ayaalsabahi/project02-GDPP)
+[project link (github)](https://github.com/ayaalsabahi/Ben-Platformer)
 
 ## <span style="color: #daa520;"> Design Process </span>
 

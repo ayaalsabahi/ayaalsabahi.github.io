@@ -15,8 +15,7 @@ tag: work
 ## <span style="color: #daa520;"> Design Process </span>
 
 **Game concept:** 
-
-I created the AI of police ducks and normal ducks of fleeing as well as chasing the player, UI of the game, eating mechanic, and sound design. 
+I created the AI of police ducks and normal ducks of fleeing as well as chasing the player, UI of the game, eating mechanism as well as sound design. 
 
 **Core mechanics:**
 Walk around as you eat ducks and collect cool shades and a hat. 
@@ -36,7 +35,7 @@ Mac
 - Maya
 
 ## <span style="color: #54717a;">Motivation</span>
-
+Theme was to create a game based on a fairytale, we chose the ugly duckling! 
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
-Three weeks 
+We had a month, roughly put in 10 - 15 hours per week into this ptojrct. 
