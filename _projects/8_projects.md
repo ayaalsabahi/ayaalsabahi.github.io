@@ -9,7 +9,9 @@ tag: work
 
 
 ![In Game Picture](assets/img/ugly-duckling.png)
+
 [trailer video](https://drive.google.com/file/d/19c6-0ZyIS2MwlgJE-lGgCtEzEWUBUn4i/view?resourcekey)
+
 [project link (github)](https://github.com/ayaalsabahi/Ugly-Duckling-Game)
 
 ## <span style="color: #daa520;"> Design Process </span>
