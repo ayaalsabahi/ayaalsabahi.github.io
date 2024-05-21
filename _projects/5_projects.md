@@ -28,12 +28,13 @@ tag: work
 Throwing basketballs is fun & making pizza is yummy, why not combine both!
 
 **Core mechanics:**
-Integrated in sound & game flow with playtesting results, as well as the interactive homescreen with floating pizza.
+Integrated in sound & game flow with playtesting results, as well as the interactive homescreen with floating pizza & architechture. 
 
+My two other teammates worked on getting the timer aspect integrated in, pizza throwing mechanic as well as UI of what orders appear onscreen.
+
+Our main struggle was getting balance right such as how fast should a conveyer belt move before it becomes too punishing? 
 **Art:**
 Credits to Kai & Isabel, everything from the pizza shop layout, toppings, and even lighting!
-
-I worked on the home page starting scene and city layout. 
 
 **Controls:** 
 WASD + mouse 
@@ -44,10 +45,13 @@ Mac
 ## <span style="color: #3d5a80;">Technology Used</span>
 - C#
 - Unity
-- Maya
+- Maya for modelling interactive home page cities 
+- Blender for inner kitchen layour 
 
 ## <span style="color: #54717a;">Motivation</span>
-Making a basketball game
+Theme was to make a basketball game, we decided to think outside the box a bit!
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
-Three week project 
+Three week project
+
+Note: All attributions are in the github repo. 
