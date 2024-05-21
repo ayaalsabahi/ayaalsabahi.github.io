@@ -33,6 +33,8 @@ Integrated in sound & game flow with playtesting results, as well as the interac
 My two other teammates worked on getting the timer aspect integrated in, pizza throwing mechanic as well as UI of what orders appear onscreen.
 
 Our main struggle was getting balance right such as how fast should a conveyer belt move before it becomes too punishing? 
+
+[Game Desoign Document](https://docs.google.com/document/d/1b2HIzkNuHeq8XiBHke0rV21wxuWgls1w-okmStLmXjM/edit?usp=sharing)
 **Art:**
 Credits to Kai & Isabel, everything from the pizza shop layout, toppings, and even lighting!
 

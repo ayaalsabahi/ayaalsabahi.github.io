@@ -19,8 +19,14 @@ tag: work
 **Game concept:** 
 I created the AI of police ducks and normal ducks of fleeing as well as chasing the player, UI of the game, eating mechanism as well as sound design. 
 
+Our goal was to create as subtle pushes as possible without screaming at the player where to go whilst unlocking sidequests. This was done through 3D sounds emerssing the player in different environments, subtle ques with the police ducks chasing, as well as a question and exclamation mark when ducks are suspicious they would eat and run away from you respectivley.
+
+For next time, we would work on creating those eating moments a lot more juicy, with more effect such as the eaten duck shrinking rather than just dissapearing. 
+
+[Game Design Document](https://docs.google.com/document/d/1_vb306vXKbazlr9q67qgMTFPJl_iC3kRPzMeRX6sQxA/edit?usp=sharing)
+
 **Core mechanics:**
-Walk around as you eat ducks and collect cool shades and a hat. 
+Walk around as you eat ducks, explore a pond, and collect cool shades and a hat. 
 
 **Art:**
 All credits to Kai & Isabel, we really took inspiration from the untitled goose game. 
@@ -29,7 +35,7 @@ All credits to Kai & Isabel, we really took inspiration from the untitled goose 
 WASD
 
 **Platform:** 
-Mac 
+Mac + mouse 
 
 ## <span style="color: #3d5a80;">Technology Used</span>
 - C#

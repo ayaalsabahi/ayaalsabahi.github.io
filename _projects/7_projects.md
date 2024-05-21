@@ -39,8 +39,14 @@ I also worked on sound design and integration, I also programmed in the intro le
 
 My other teamates worked on UI, mechanics of how the boy and mouse move, first level, as well as integrating the art in after greyboxing. 
 
+[Game Design Document](https://docs.google.com/document/d/1z_KHMWVxmFfdiMYL9iPeUflqweewWXzPKX91nPFF9V4/edit?usp=sharing)
+
 **Art:**
-Credits to Kai & Isabel for the amazing art work. 
+We wanted to go for a similar vibe to Limbo, Inside, and Nightmares. 
+
+![Art moodboard](assets/img/benart.png)
+Credits to Kai & Isabel for the amazing art work and animation. 
+
 
 **Controls:** 
 WASD + Space
