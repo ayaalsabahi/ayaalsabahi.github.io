@@ -13,3 +13,14 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.larger-image {
+  max-width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 1rem; /* Optional spacing */
+}
+
+.larger-image img {
+  width: 100%;
+  object-fit: contain; /* Ensures the image doesn't get cropped */
+}

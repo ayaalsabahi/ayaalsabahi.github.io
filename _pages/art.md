@@ -11,16 +11,17 @@ All work belongs to Aya Al Sabahi, please do not use or post any of my work with
 
 #### The Human Archive Collection
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ha1.jpg.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ha1.jpg.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ha2.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ha2.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ha3.jpg.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ha3.jpg.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
     </div>
 </div>
+
 
 
 
