@@ -29,33 +29,17 @@ All work belongs to Aya Al Sabahi, please do not use or post any of my work with
 
 #### Hues of Purple
 
-
 <div class="row mt-3">
-<div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p2.png" class="img-fluid rounded z-depth-1" zoomable=true%}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/p2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p3.png" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/p1.png" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/p1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
-   
-#### Hues of Blue
+#### Bibiborg behind the scenes??
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/b1.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/b2.png" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/b3.png" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
@@ -65,5 +49,6 @@ All work belongs to Aya Al Sabahi, please do not use or post any of my work with
         {% include figure.html path="assets/img/r2.png" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
+
 
 

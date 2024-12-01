@@ -11,7 +11,7 @@ tag: work
 
 
 
-[project link](https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/edit)
+[project video](https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/edit)
 
 [behind the scenes (artstation)](https://www.artstation.com/artwork/1xV6O2)
 
@@ -20,7 +20,7 @@ I absolutely love things where humans, technology, and emotion intersect, things
 
 I wanted to recreate a spinoff with all those combibed with my Omani culture and heritage. 
 
-Grandmother can be called as 'Bibi', '7abo', or 'Ma' depending on the househod, I felt that combining Bibi + Borg (from cyborg) worked out best!
+Grandmother can be called as 'Bibi', 'Habo', or 'Ma' depending on the househod, I felt that combining Bibi + Borg (from cyborg) worked out best!
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
 I managed all aspects of this project and was responsible for all components of the animation, which is listed in the toolkit below.
