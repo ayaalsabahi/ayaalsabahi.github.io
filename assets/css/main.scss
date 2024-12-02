@@ -24,3 +24,12 @@ $max-content-width: {{ site.max_width }};
   width: 100%;
   object-fit: contain; /* Ensures the image doesn't get cropped */
 }
+
+.img-fluid {
+  max-width: 100%; /* Allow responsive scaling */
+  width: auto;     /* Prevent forced resizing */
+}
+
+.zoomable img {
+  max-width: none; /* Remove any max-width constraints */
+}
