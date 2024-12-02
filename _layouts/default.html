@@ -3,13 +3,10 @@
 
   <!-- Head -->
   <head>
-    {%- if page.redirect -%}
-      <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-    {%- endif -%}
-    {% include head.html %}
-    
-    <!-- Lightbox CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/css/lightbox.min.css" rel="stylesheet">
+  {%- if page.redirect -%}
+    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
+  {%- endif -%}
+  {% include head.html %}
   </head>
 
   <!-- Body -->
@@ -35,8 +32,6 @@
     {% include scripts/analytics.html %}
     {% include scripts/progressBar.html %}
 
-    <!-- Lightbox JS -->
-    <script src="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/js/lightbox.min.js"></script>
-
+    
   </body>
 </html>
