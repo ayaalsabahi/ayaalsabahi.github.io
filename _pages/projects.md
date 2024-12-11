@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: find the behind the scenes of my Nora & Bibiborg in Artstation
+description: 
 nav: true
 nav_order: 1
 horizontal: true
