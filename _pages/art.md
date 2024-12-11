@@ -11,52 +11,51 @@ All work belongs to Aya Al Sabahi. Please do not use or share my work without pe
 ---
 
 ### Bibiborg: Behind the Scenes, 2023
-<p>Work and sketches that went into Bibiborg coming to life. </p>
+Work and sketches that went into Bibiborg coming to life.
 
-{% include figure.html path="assets/img/bibiface.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Bibiborg's expressive face design." %}
+![Bibiborg's expressive face design.](assets/img/bibiface.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
-{% include figure.html path="assets/img/bibibackground.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Robotic arm testing." %}
+![Robotic arm testing.](assets/img/bibibackground.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
 ---
 
 ### The Human Archive Collection
-<p>A conceptual series exploring the depth and range of human emotions.</p>
+A conceptual series exploring the depth and range of human emotions.
 
-{% include figure.html path="assets/img/ha1.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true caption="Emptionally constipated." %}
+![Emotionally constipated.](assets/img/ha1.jpg){: .img-fluid .rounded .z-depth-1 .larger-image zoomable=true }
 
-{% include figure.html path="assets/img/ha2.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true caption="The Dreamer, 2020" %}
+![The Dreamer, 2020](assets/img/ha2.jpg){: .img-fluid .rounded .z-depth-1 .larger-image zoomable=true }
 
-{% include figure.html path="assets/img/ha3.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true caption="Yin and Yang, 2022" %}
+![Yin and Yang, 2022](assets/img/ha3.jpg){: .img-fluid .rounded .z-depth-1 .larger-image zoomable=true }
 
 ---
 
 ### Hues of Purple
-<p>Exploring color gradients and their psychological effects.</p>
+Exploring color gradients and their psychological effects.
 
-{% include figure.html path="assets/img/p2.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Gradient study 1" %}
+![Gradient study 1](assets/img/p2.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
-{% include figure.html path="assets/img/b1.JPG" class="img-fluid rounded z-depth-1" zoomable=true caption="Abstract purple hues" %}
+![Abstract purple hues](assets/img/b1.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
-{% include figure.html path="assets/img/p1.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Gradient study 2" %}
+![Gradient study 2](assets/img/p1.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
+---
 
 ### Undefined Collection
-<p>An eclectic mix of ideas and visual experiments.</p>
+An eclectic mix of ideas and visual experiments.
 
-{% include figure.html path="assets/img/r1.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Random abstract 1" %}
+![Random abstract 1](assets/img/r1.jpg){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
-{% include figure.html path="assets/img/r2.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Random abstract 2" %}
+![Random abstract 2](assets/img/r2.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
-{% include figure.html path="assets/img/mixed.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Mixed media" %}
+![Mixed media](assets/img/mixed.jpg){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
 ---
 
 ### Selected Film Work
 
-{% include figure.html path="assets/img/fuji400-nov24.JPG" class="img-fluid rounded z-depth-1" zoomable=true caption="Film still 1" %}
+![Film still 1](assets/img/fuji400-nov24.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
-{% include figure.html path="assets/img/japan.JPG" class="img-fluid rounded z-depth-1" zoomable=true caption="Film still 2" %}
+![Film still 2](assets/img/japan.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
 
-{% include figure.html path="assets/img/fuji400-1-nov24.JPG" class="img-fluid rounded z-depth-1" zoomable=true caption="Film still 3" %}
-
-
+![Film still 3](assets/img/fuji400-1-nov24.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
