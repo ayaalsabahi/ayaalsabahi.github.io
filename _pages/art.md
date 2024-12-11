@@ -11,51 +11,65 @@ All work belongs to Aya Al Sabahi. Please do not use or share my work without pe
 ---
 
 ### Bibiborg: Behind the Scenes, 2023
-Work and sketches that went into Bibiborg coming to life.
+<p>Work and sketches that went into Bibiborg coming to life.</p>
 
-![Bibiborg's expressive face design.](assets/img/bibiface.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/bibiface.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Bibiborg's expressive face design.</p>
 
-![Robotic arm testing.](assets/img/bibibackground.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/bibibackground.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Robotic arm testing.</p>
 
 ---
 
 ### The Human Archive Collection
-A conceptual series exploring the depth and range of human emotions.
+<p>A conceptual series exploring the depth and range of human emotions.</p>
 
-![Emotionally constipated.](assets/img/ha1.jpg){: .img-fluid .rounded .z-depth-1 .larger-image zoomable=true }
+{% include figure.html path="assets/img/ha1.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
+<p class="text-center mt-2">Emotionally constipated.</p>
 
-![The Dreamer, 2020](assets/img/ha2.jpg){: .img-fluid .rounded .z-depth-1 .larger-image zoomable=true }
+{% include figure.html path="assets/img/ha2.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
+<p class="text-center mt-2">The Dreamer, 2020.</p>
 
-![Yin and Yang, 2022](assets/img/ha3.jpg){: .img-fluid .rounded .z-depth-1 .larger-image zoomable=true }
+{% include figure.html path="assets/img/ha3.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
+<p class="text-center mt-2">Yin and Yang, 2022.</p>
 
 ---
 
 ### Hues of Purple
-Exploring color gradients and their psychological effects.
+<p>Exploring color gradients and their psychological effects.</p>
 
-![Gradient study 1](assets/img/p2.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/p2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Gradient study 1.</p>
 
-![Abstract purple hues](assets/img/b1.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/b1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Abstract purple hues.</p>
 
-![Gradient study 2](assets/img/p1.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/p1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Gradient study 2.</p>
 
 ---
 
 ### Undefined Collection
-An eclectic mix of ideas and visual experiments.
+<p>An eclectic mix of ideas and visual experiments.</p>
 
-![Random abstract 1](assets/img/r1.jpg){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/r1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Random abstract 1.</p>
 
-![Random abstract 2](assets/img/r2.png){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/r2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Random abstract 2.</p>
 
-![Mixed media](assets/img/mixed.jpg){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/mixed.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Mixed media.</p>
 
 ---
 
 ### Selected Film Work
 
-![Film still 1](assets/img/fuji400-nov24.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/fuji400-nov24.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Film still 1.</p>
 
-![Film still 2](assets/img/japan.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/japan.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Film still 2.</p>
 
-![Film still 3](assets/img/fuji400-1-nov24.JPG){: .img-fluid .rounded .z-depth-1 zoomable=true }
+{% include figure.html path="assets/img/fuji400-1-nov24.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p class="text-center mt-2">Film still 3.</p>
