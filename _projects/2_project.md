@@ -17,14 +17,6 @@ tag: work
 
 </div>
 
----
-layout: page
-title: Lost in Mutrah
-importance: 1
-description: Independant Study project on Omani culture and 3D Game Development
-image:
-tag: work
----
 
 ## <span style="color: #8B4513;">‘Lost in Mutrah’ Synopsis</span>
 I developed a 3D third-person storytelling game set in Souq Mutrah, Oman. In the game, you play as a 12-year-old boy named Qadr, who has just moved to the country and is searching for ingredients to make the traditional Omani dessert, Halwa.
@@ -56,6 +48,9 @@ I structured my development into two- to three-week cycles, reworking prototypes
 ## <span style="color: #8A2BE2;">The Dialogue</span>
 To begin, I created a document highlighting all the aspects of my culture that I loved. I then narrowed it down to the top five elements I wanted to integrate into the game. Using these, I wrote dialogue between characters, each of whom represented a pillar of Omani culture.
 At first, I struggled with how to structure the script. I wrote multiple drafts and received feedback from Carnegie Mellon University's ETC game design and development faculty. Additionally, I consulted with a screenwriter to refine my approach to dialogue structure.
+
+[Script Sample](https://docs.google.com/document/d/1mHlZl8RxYcA6jEpGrk-Ef-fFx_GGGFhb5rDQcdRUxYg/edit?usp=sharing)
+
 
 ## <span style="color: #DC143C;">The Characters</span>
 - **Jido**: A grandfather figure who possesses a secret Halwa recipe.

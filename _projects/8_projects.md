@@ -32,10 +32,10 @@ Walk around as you eat ducks, explore a pond, and collect cool shades and a hat.
 All credits to Kai & Isabel, we really took inspiration from the untitled goose game. 
 
 **Controls:** 
-WASD
+WASD + mouse 
 
 **Platform:** 
-Mac + mouse 
+Mac 
 
 ## <span style="color: #3d5a80;">Technology Used</span>
 - C#
