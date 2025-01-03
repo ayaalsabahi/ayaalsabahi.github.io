@@ -9,12 +9,13 @@ tag: work
 
 
 
-[trailer video](https://drive.google.com/file/d/19c6-0ZyIS2MwlgJE-lGgCtEzEWUBUn4i/view?resourcekey)
+<!-- [trailer video](https://drive.google.com/file/d/19c6-0ZyIS2MwlgJE-lGgCtEzEWUBUn4i/view?resourcekey) -->
+<iframe src="https://drive.google.com/file/d/19c6-0ZyIS2MwlgJE-lGgCtEzEWUBUn4i/preview" width="640" height="480"></iframe>
 
 [project link (github)](https://github.com/ayaalsabahi/Ugly-Duckling-Game)
 
 ## <span style="color: #daa520;"> Design Process </span>
-<iframe src="https://drive.google.com/file/d/19c6-0ZyIS2MwlgJE-lGgCtEzEWUBUn4i/preview" width="640" height="480"></iframe>
+
 
 **Game concept:** 
 I created the AI of police ducks and normal ducks of fleeing as well as chasing the player, UI of the game, eating mechanism as well as sound design. 

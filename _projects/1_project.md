@@ -11,9 +11,11 @@ tag: work
 
 
 
-[project video](https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/edit)
+<!-- [project video](https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/edit) -->
+<iframe src="https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/preview" width="640" height="480"></iframe>
 
-[behind the scenes (artstation)](https://www.artstation.com/artwork/1xV6O2)
+
+[behind the scenes](https://ayaalsabahi.github.io/art-portfolio/)
 
 ## <span style="color: #54717a;">Motivation</span>
 I absolutely love things where humans, technology, and emotion intersect, things like Detroit: Become Human and The Terminator.
