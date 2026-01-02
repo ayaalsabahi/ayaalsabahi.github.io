@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Wings of Trouble
 importance: 1
 description: Meta Quest VR Game
 image: 
@@ -36,6 +36,7 @@ tag: work
 Three weeks to come up with ideas up to completion.
 
 Credits:
+
 **Programers**
 
 Aya Al Sabahi
