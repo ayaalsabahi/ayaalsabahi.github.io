@@ -2,9 +2,9 @@
 layout: page
 title: Ben
 importance: 2
-description: 2D horror platformer
+description: 2D Horror Platformer
 image: 
-tag: work
+tag: false
 ---
 
 

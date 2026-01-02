@@ -2,10 +2,9 @@
 layout: page
 title: 
 importance: 1
-description: Virtual Reality Game
+description: Meta Quest VR Game
 image: 
 tag: work
-published: false
 ---
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -29,7 +28,8 @@ published: false
 
 ## <span style="color: #3d5a80;">Material & Technology Used</span>
 - Unity & C# 
-- Cardboard, 
+- Meta Quest 3
+- Cardboard, tape, and paper 
 
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
