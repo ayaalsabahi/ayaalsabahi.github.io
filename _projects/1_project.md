@@ -5,6 +5,7 @@ importance: 1
 description: Maya 3D Animation
 image: 2023 Maya Animation
 tag: work
+published: false
 ---
 
 {% raw %}
