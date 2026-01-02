@@ -21,19 +21,19 @@ tag: work
 
 
 ## <span style="color: #daa520;"> Design Process </span>
-- Presented a demo at Carnegie Mellon’s 3rd Extended Reality Technology Center symposium. 
-- Implemented bird flight mechanics and teleportation system for immersive VR navigation.
-- Designed levels promoting indirect player guidance, enabling a 3 minute intuitive gameplay experience, confirmed by playtesting.
-- Integrated UI for start + end screens and added immersive audio to enhance user experience.
+This project was showcased at Carnegie Mellon’s 3rd Extended Reality Technology Center Symposium, where it was presented as a live interactive demo. I developed intuitive bird-inspired flight mechanics and a teleportation-based navigation system to support comfortable, immersive VR exploration.
+
+Level design focused on indirect player guidance—using environmental cues rather than explicit instructions—allowing first-time users to understand and complete the experience in under three minutes, a result validated through playtesting. The project also features custom start and end UI screens, along with spatial audio integration to enhance immersion and overall user experience.
 
 ## <span style="color: #3d5a80;">Material & Technology Used</span>
 - Unity & C# 
 - Meta Quest 3
-- Cardboard, tape, and paper 
+- Wings. Cardboard, tape, and paper 
 
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
 Three weeks to come up with ideas up to completion.
+
 
 Credits:
 
