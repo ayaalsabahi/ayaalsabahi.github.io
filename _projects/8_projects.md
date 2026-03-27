@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Embiggend Indignant Cygnet (PC)
+title: Embiggend Indignant Cygnet
 importance: 1
 description: User Centered Design
 image: 

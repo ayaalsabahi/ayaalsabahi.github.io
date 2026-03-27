@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finding Oberon (PC)
+title: Finding Oberon
 importance: 2
 description: Rapid Prototyping 
 image:  assets/img/game-cover.png
