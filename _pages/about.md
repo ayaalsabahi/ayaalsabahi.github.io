@@ -20,7 +20,7 @@ I’m a Master’s student in Entertainment Technology with a background in comp
 
 Together, I act as the missing link that helps teams stay user-focused, prototype faster, and create experiences that work for the people they’re built for.
 
-I'm currently working on **[SoKids](https://projects.etc.cmu.edu/sokids/)**, a research-driven, play-based interactive system that uses touchscreen games to study how preschoolers categorize social categiries while supporting developmental psychology research through natural, engaging interactions.
+I'm currently the lead prototyper for **[SoKids](https://projects.etc.cmu.edu/sokids/)**, a research-driven, play-based interactive system that uses touchscreen games to study how preschoolers categorize social categiries while supporting developmental psychology research through natural, engaging interactions.
 
 Prior work in **[projects](https://ayaalsabahi.github.io/projects/)**.
 
