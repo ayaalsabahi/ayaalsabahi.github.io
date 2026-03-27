@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Finding Oberon
+title: Finding Oberon (PC)
 importance: 2
-description: Unity 3D Game
+description: Rapid Prototyping 
 image:  assets/img/game-cover.png
 tag: work
 ---

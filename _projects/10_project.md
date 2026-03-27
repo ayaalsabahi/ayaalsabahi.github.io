@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Wings of Trouble
+title: Wings of Trouble (VR)
 importance: 1
-description: Meta Quest VR Game
+description: Rapid Prototying & User Centered Design
 image: 
 tag: work
 ---

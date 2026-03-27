@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Embiggend Indignant Cygnet
+title: Embiggend Indignant Cygnet (PC)
 importance: 1
-description: 3D game inspired by The Ugly Duckling
+description: User Centered Design
 image: 
 tag: work
 ---

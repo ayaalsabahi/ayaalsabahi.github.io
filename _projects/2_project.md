@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lost in Mutrah
+title: Lost in Mutrah (Oman)
 importance: 1
-description: Independant study project on Omani culture and 3D Game Development
+description: Rapid Prototying & Cross-Cultural Awarness
 image:
 tag: work
 ---
