@@ -12,7 +12,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m a Master’s student in Entertainment Technology with a background in computer science, focused on bridging the gap between user needs, design, and implementation to help teams move from idea to impactful interactive experiences.
 
-**Rapid Prototyping & Systems Thinking:** I quickly turn ideas into functional prototypes that connect design and engineering, helping teams test, iterate, and align before committing resources.
+**Rapid Prototyping & Systems Thinking:** I specialize in rapid prototyping, turning ideas into functional experiences that bridge design and engineering while leveraging my understanding of computer graphics and distributed systems to ensure performance and scalability.
 
 **User-Centered Design & Research:** I uncover what users actually need and translate those insights into clear, actionable design decisions so teams build the right product from the start.
 
