@@ -3,7 +3,7 @@ layout: page
 permalink: /art-portfolio/
 title: art
 description: A curated selection of artwork and film projects by Aya Al Sabahi.
-nav: true
+nav: false
 ---
 
 All work belongs to Aya Al Sabahi. Please do not use or share my work without permission.
