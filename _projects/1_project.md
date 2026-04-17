@@ -10,8 +10,6 @@ published: false
 
 {% raw %}
 
-
-
 <!-- [project video](https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/edit) -->
 <iframe src="https://drive.google.com/file/d/1bU82OMsjXk0AoyucL_JSUkkiTpUQlzJC/preview" width="640" height="480"></iframe>
 
