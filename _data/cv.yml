@@ -4,93 +4,170 @@
     - name: Full Name
       value: Aya Al Sabahi
     - name: Languages
-      value: English, Arabic 
+      value: English, Arabic
 
 - title: Education
   type: time_table
   contents:
-    - title: B.Sc. in Computer Science 
-      institution: Carnegie Mellon Univeristy, Qatar
-      year: 2025
+    - title: Master's of Entertainment Technology
+      institution: Carnegie Mellon University, Pittsburgh, PA
+      year: 2027
       description:
-        - title: Math Courses
+        - Concentration in Transformational Play
+
+    - title: B.Sc. in Computer Science
+      institution: Carnegie Mellon University
+      description:
+        - Minor in Game Design
+        - title: Selected Courses
           contents:
-            - Calculus 1, 2
-            - Calculus in 3D
-            - Concepts of Math (discrete math)
-            - Linear algebra
-        - title: Comp Sci Courses
-          contents:
-            - Fundementals of Programming (Python)
-            - Principles of Imperative Computation (C)
-            - Principles of Functional Programming (SML NJ)
+            - Computer Graphics
+            - Distributed Systems
+            - Introduction to Machine Learning
             - Introduction to Computer Systems
-        - Cognitive Psychology 
-       
-    - title: 
-      institution: International School of Chouifat, Muscat
+            - Game Design, Prototyping, and Production
+            - Designing Educational Games
+            - Introduction to 3D Animation
+            - Algorithm Design and Analysis
+            - Parallel and Sequential Data Structures and Algorithms
+            - Introduction to Computer Security
+            - Cognitive Psychology
+
+
+    - title: International School of Chouifat
+      institution: Muscat, Oman
       year: 2021
-      description: 
-      - title: Advanced Placement Scholar with Honor
-        contents: Physics C, AB calculus, Computer Science A, Psychology
+      description:
+        - title: Advanced Placement Scholar with Honor
+          contents:
+            - Physics C
+            - AB Calculus
+            - Computer Science A
+            - Psychology
 
 - title: Experience
   type: time_table
   contents:
-    - title: Course Assistant for Fundementals of Programming 
-      institution: Carnegie Mellon Univeristy, Qatar
-      year: Jan 2022 - Apr 2022
+    - title: Programming Lead — SoKids
+      institution: Carnegie Mellon University
+      year: Jan 2026 - Present
       description:
-      - support students with clarifying concepts in weekly labs
-      - Hold office hours for students to ask questions (3 sessions/week)
-      - conduct homework interviews to keep track of students learning progress
-    - title: Software Developer on backend 
-      institution: PhazeRo
-      year: June/July 2022
-      description:
-        - tools used; NodeJs, REST API
-        - Wokrked on an applicant managment anf filtering system for HR
+        - Lead programmer on an interdisciplinary team of 6 building a research tool at the intersection of child psychology, game design, and social science
+        - Architected a data collection system tracking over 10 behavioral and response data points per session for children ages 3–6
+        - Designed and built two prototype structures (linear and Hub & Spoke) spanning 18 scenes
+        - Presented findings to faculty and PhD researchers
 
+    - title: Outreach Specialist Intern
+      institution: Tokyo Seitoku University, Tokyo, Japan
+      year: July 2024 - Aug 2024
+      description:
+        - Conducted a survey analyzing student engagement, yielding insights to improve participation by approximately 25%
+        - Created interactive language-learning games that improved language proficiency metrics by more than 20%
+        - Leveraged data analytics to identify key engagement factors, advancing student interaction by approximately 30%
+
+    - title: Teaching Assistant
+      institution: Carnegie Mellon University
+      year: Jan 2022 - Dec 2024
+      description:
+        - Guided students across multiple programming and logic courses (15-110, 15-112, )
+        - Held 6 office hours weekly supporting over 50 students combined
+        - Mentored 7 student-led term projects, 4 focused on game development — several featured at end-of-semester showcase
+
+    - title: Software Developer Intern
+      institution: PhazeRo, Muscat, Oman
+      year: June 2022 - July 2022
+      description:
+        - Built backend for an internal applicant management system using NodeJS and REST APIs
+        - Produced an onboarding document that improved knowledge transfer for future interns
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: SoKids — Social Categorization Game Based Assessment
+      institution: Unity · C#
+      year: Jan 2026 - Present
+      description:
+        - Research tool studying how children ages 3–6 perceive social categories including race
+        - Architected a data collection system capturing how children ages 3–6 perceive social categories including race — tracking over 10 behavioral and response data points per session
+        - Designed and built two distinct prototype structures (linear and Hub & Spoke) spanning 18 scenes and tasks, balancing research rigor with age-appropriate interactivity
+
+
+    - title: Computer Graphics Engine
+      institution: C++
+      year: Jan 2026 - Present
+      description:
+        - Ray tracer with shadows, reflections, BVH acceleration, and Monte Carlo anti-aliasing
+        - CPU-based rasterization pipeline with z-buffering and Phong shading
+        - Half-edge mesh structure supporting subdivision, smoothing, and geometric transformations
+
+    - title: Wings of Trouble — VR Game
+      institution: Unity · Meta Quest 3 · C#
+      year: Oct 2025
+      description:
+        - Presented at Carnegie Mellon's 3rd Extended Reality Technology Center symposium
+        - Implemented bird flight mechanics and teleportation for immersive VR navigation
+
+    - title: Embiggened Indignant Cygnet
+      institution: Unity · C#
+      year: Mar 2024 - Apr 2024
+      description:
+        - Developed enemy AI, alert system, player mechanics, UI features, and sound design
+
+    - title: Finding Oberon — 3D Open World Game
+      institution: Unity · C#
+      year: July 2023
+      description:
+        - Led a team of 3 to build a mini open-world game with three side quests in 1.5 weeks for a game jam
+
+    - title: Bibiborg — 3D Animation
+      institution: Maya · ZBrush · Substance Painter
+      year: June 2023 - July 2023
+      description:
+        - Original 3D animation combining futuristic themes with Omani culture and heritage
+        - Handled UV mapping, rigging, retopologizing, animation, sculpting, and texturing
+
+    - title: Machine Learning Projects
+      institution: Python
+      year: Sept 2023 - Dec 2023
+      description:
+        - Achieved model accuracies exceeding 90% on benchmark datasets
+        - Reduced input features by 40% through dimensionality reduction without sacrificing accuracy
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021 - present
+    - year: 2025 - 2027 
       items: 
-        - Scholarship from Qatari Amiri Diwan awarded to Omani students competitivley 
-    - year: 2020 - 2022
-      items: 
-        - Board member for a non-profit magazine for Omani Youth, TwoThousand Magazine
-    - year: 2022 
-      items: Nashia Python Scheme run by Ministry of Education, Oman
+        - Carneegie Mellon Entertainemnt Technology Center Fellow
+    - year: 2021 - 2025
+      items:
+        - Qatari Amiri Diwan Full Ride Scholarship, awarded to 5 Omani students per year competitively
+    - year: 2022 - 2024
+      items:
+        - Dean's List — Fall 2022, Spring 2024, Fall 2024
+    - year: 2021
+      items:
+        - Advanced Placement Scholar with Honor
 
-- title: Projects
+- title: Activities & Leadership
   type: time_table
-  contents: 
-    - title: Computer Systems labs
-      year: 2022
-      description: 
-      - shell with several built-in commands
-      - proxy for static HTML web pages 
-      - dynamic memory allocator (malloc, calloc, realloc, free) with a segregated linked list implementation, 4 byte minimum block size
-    - title: Freshman Immigration Planner
-      year: 2021
-      description: 
-      - Imolimented using Python & tkinter library 
-      - Helps students transition from highschool to univeristy by visually tracking time spent in courses
-      - Includes ability to view & track office hours
-      - scalability to track by day, week, month and view all time statistics 
-    - title: Recreated Minesweeper
-      year: 2020
-      description: For nashia python scheme run by Ministry of Education in Oman
-- title: Activities & Leadership 
-  type: time_table 
-  contents: 
-    - year: 2022 - 2023 
-      items: Computing Club member
-    - year: 2019 - 2021
-      items: Features & Science head editor, ISC-Muscat newsletter 
-    - year: 2018 - Present
-      items: Sold copies of my art in local saturday market, also run an art account (@ayasbrushes on instagram)
-    - year: 2017 - 2019
-      items: tutoring grades 1 - 7 mathematics
+  contents:
+    - year: 2024 - Present
+      items:
+        - Founder, Film Photography Club — cooperated with Khalifa Art Center to deliver a photo walk and film development workshop
+    - year: 2022 - 2024
+      items:
+        - Teaching Assistant and Academic Review Board member, Carnegie Mellon University
+        - Executive Member, Computing Club — presented talk on game development, organized events including end-of-year CS party and monthly Bits & Bites
+        - Executive Member (Writing), Arts & Crafts Club — wrote monthly articles for the lam7a campus newsletter on art and the world
+        - Social Media Assistant, CS Department — crafted LinkedIn & Instagram posts and increased engagement
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: C++, C, C#, Python, Java, NodeJS, REST APIs, NumPy, LaTeX
+    - name: Tools & Engines
+      value: Unity, Maya, Git
+    - name: Languages
+      value: English, Arabic
