@@ -1,75 +1,229 @@
 ---
-layout: page
+layout: default
+title: Experience
 permalink: /experience/
-title: experience
-description: A curated selection of artwork and film projects by Aya Al Sabahi.
-nav: true
 ---
 
-All work belongs to Aya Al Sabahi. Please do not use or share my work without permission.
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet" />
 
----
+<style>
+  .cv-wrap *, .cv-wrap *::before, .cv-wrap *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-### Bibiborg: Behind the Scenes, 2023
-<p>Work and sketches that went into Bibiborg coming to life.</p>
+  .cv-wrap {
+    --bg: #f9f7f4;
+    --text: #1a1a1a;
+    --muted: #888;
+    --rule: #d8d4cd;
+    --serif: 'EB Garamond', Georgia, serif;
+    --mono: 'DM Mono', monospace;
+    font-family: var(--serif);
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--text);
+    max-width: 760px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+  }
 
-{% include figure.html path="assets/img/bibiface.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">Bibiborg's expressive face design.</p>
+  .cv-contact {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    margin-bottom: 72px;
+  }
 
-{% include figure.html path="assets/img/bibibackground.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">Robotic arm sketches.</p>
+  .cv-contact a {
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
 
----
+  .cv-contact a:hover { color: var(--text); }
+  .cv-contact .dot { margin: 0 14px; opacity: 0.4; }
 
-### The Human Archive Collection
-<p>A conceptual series exploring the depth and range of human emotions.</p>
+  .cv-section { margin-bottom: 64px; }
 
-{% include figure.html path="assets/img/ha1.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
-<p class="text-center mt-2">Emotionally Constipated, 2022.</p>
+  .cv-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 28px;
+  }
 
-{% include figure.html path="assets/img/ha2.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
-<p class="text-center mt-2">You are what you eat, 2022.</p>
+  .cv-entry { margin-bottom: 28px; padding-bottom: 28px; border-bottom: 1px solid var(--rule); }
+  .cv-entry:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
 
-{% include figure.html path="assets/img/ha3.jpg" class="img-fluid rounded z-depth-1 larger-image" zoomable=true %}
-<p class="text-center mt-2">Losing Touch, 2022.</p>
+  .cv-role {
+    font-size: 19px;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 1.3;
+    margin-bottom: 2px;
+  }
 
----
+  .cv-where {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+  }
 
-### Hues of Purple
-<p>Exploring color gradients and their psychological effects.</p>
+  .cv-edu { margin-bottom: 24px; }
+  .cv-edu:last-child { margin-bottom: 0; }
 
-{% include figure.html path="assets/img/p2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">The Dreamer, 2020.</p>
+  .cv-degree {
+    font-size: 19px;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 1.3;
+    margin-bottom: 2px;
+  }
 
-{% include figure.html path="assets/img/b1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">Yin and Yang, 2022.</p>
+  .cv-school {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+  }
 
-{% include figure.html path="assets/img/p1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">Gradient study, 2022.</p>
+  .cv-award {
+    font-size: 17px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    color: var(--text);
+  }
 
----
+  .cv-award:last-child { margin-bottom: 0; }
 
-### Undefined Collection
-<p>An eclectic mix of ideas and visual experiments.</p>
+  .cv-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    list-style: none;
+    padding: 0;
+  }
 
-{% include figure.html path="assets/img/r1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">What I love, 2022.</p>
+  .cv-skills li {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+  }
 
-{% include figure.html path="assets/img/r2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">Door of Secrets, 2022.</p>
+  .cv-skills li::before { content: "— "; opacity: 0.4; }
 
-{% include figure.html path="assets/img/mixed.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">My Favorite Record, 2024.</p>
+  .cv-footer {
+    border-top: 1px solid var(--rule);
+    padding: 28px 0;
+    display: flex;
+    gap: 20px;
+  }
 
----
+  .cv-footer a {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 300;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
 
-### Selected Film Work
+  .cv-footer a:hover { color: var(--text); }
 
-{% include figure.html path="assets/img/fuji400-nov24.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">We Pray, Doha, 2024.</p>
+  @media (max-width: 600px) {
+    .cv-wrap { font-size: 16px; }
+    .cv-contact { margin-bottom: 48px; }
+  }
+</style>
 
-{% include figure.html path="assets/img/japan.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">We Hope, Tokyo, 2024.</p>
+<div class="cv-wrap">
 
-{% include figure.html path="assets/img/fuji400-1-nov24.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-<p class="text-center mt-2">Between the Ocean and the Sky, Doha, 2024.</p>
+  <p class="cv-contact">
+    <a href="tel:+1234567890">+1 (234) 567-890</a>
+    <span class="dot">·</span>
+    <a href="mailto:youremail@example.com">youremail@example.com</a>
+  </p>
+
+  <div class="cv-section">
+    <p class="cv-label">Experience</p>
+
+    <div class="cv-entry">
+      <p class="cv-role">Programming Lead, SoKids</p>
+      <p class="cv-where">Carnegie Mellon University — Doha, Qatar</p>
+    </div>
+
+    <div class="cv-entry">
+      <p class="cv-role">Outreach Specialist Intern</p>
+      <p class="cv-where">Tokyo Seitoku University — Tokyo, Japan</p>
+    </div>
+
+    <div class="cv-entry">
+      <p class="cv-role">Teaching Assistant</p>
+      <p class="cv-where">Carnegie Mellon University — Doha, Qatar</p>
+    </div>
+
+    <div class="cv-entry">
+      <p class="cv-role">Software Developer Intern</p>
+      <p class="cv-where">PhazeRo — Muscat, Oman</p>
+    </div>
+  </div>
+
+  <div class="cv-section">
+    <p class="cv-label">Education</p>
+
+    <div class="cv-edu">
+      <p class="cv-degree">Master's of Entertainment Technology</p>
+      <p class="cv-school">Carnegie Mellon University — Pittsburgh, PA</p>
+    </div>
+
+    <div class="cv-edu">
+      <p class="cv-degree">Bachelor of Science, Computer Science</p>
+      <p class="cv-school">Carnegie Mellon University — Doha, Qatar &nbsp;·&nbsp; Minor in Game Design</p>
+    </div>
+  </div>
+
+  <div class="cv-section">
+    <p class="cv-label">Awards</p>
+
+    <p class="cv-award">Qatari Amiri Diwan Full Ride Scholarship</p>
+    <p class="cv-award">Advanced Placement Scholar with Honor</p>
+    <p class="cv-award">Dean's List — Fall 2022, Spring 2024, Fall 2024</p>
+  </div>
+
+  <div class="cv-section">
+    <p class="cv-label">Skills</p>
+    <ul class="cv-skills">
+      <li>C++</li>
+      <li>C#</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>NodeJS</li>
+      <li>REST APIs</li>
+      <li>Unity</li>
+      <li>Maya</li>
+      <li>ZBrush</li>
+      <li>Substance Painter</li>
+      <li>Machine Learning</li>
+      <li>Computer Graphics</li>
+      <li>VR / Meta Quest</li>
+      <li>English & Arabic</li>
+    </ul>
+  </div>
+
+  <div class="cv-footer">
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+    <a href="/assets/cv.pdf" target="_blank">Download CV</a>
+  </div>
+
+</div>
