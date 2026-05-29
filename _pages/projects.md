@@ -1,11 +1,12 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: 
 nav: true
 nav_order: 1
 horizontal: true
+nav_order: 3
 ---
 
 <!-- pages/projects.md -->
