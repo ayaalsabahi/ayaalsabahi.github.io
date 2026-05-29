@@ -3,7 +3,7 @@ layout: page
 title: Bibiborg 
 importance: 1
 description: Maya 3D Animation
-img: 2023 Maya Animation
+img: assets/img/bibiborg-ss.png
 tag: work
 published: true
 ---
