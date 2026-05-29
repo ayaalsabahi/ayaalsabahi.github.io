@@ -4,7 +4,7 @@
     - name: Full Name
       value: Aya Al Sabahi
     - name: Languages
-      value: English, Arabic
+      value: English & Arabic
     - name: Email 
       value: theayaalsabahi [at] gmail [dot] com
 
@@ -125,13 +125,19 @@
     - year: 2021 - 2025
       items:
         - Dean's List — Fall 2022, Spring 2024, Fall 2024
-    - year: 2021 - 2025
+    - year: 2021 
       items:
         - Advanced Placement Scholar with Honor
 
 - title: Activities & Leadership
   type: time_table
   contents:
+    - year: 2026 
+      items: 
+        - Volunteered at the Carnegie Mellon ETC booth at the Game Developers Conference 
+    - years: 2025
+        - Volunteered at the Carnegie Mellon ETC booth for the Pittsburgh Robotics & AI Discovery Day
+        
     - year: 2021 - 2025
       items: 
         - Founder, Film Photography Club — cooperated with Khalifa Art Center to deliver a photo walk and film development workshop
@@ -139,6 +145,7 @@
         - Executive Member, Computing Club — presented talk on game development, organized events including end-of-year CS party and monthly Bits & Bites
         - Executive Member (Writing), Arts & Crafts Club — wrote monthly articles for the lam7a campus newsletter on art and the world
         - Social Media Assistant, CS Department — crafted LinkedIn & Instagram posts and increased engagement
+
 
 - title: Skills
   type: map
@@ -149,3 +156,13 @@
       value: Unity, Maya, Git
     - name: Languages
       value: English, Arabic
+    
+
+- title: Other Shenanigans
+  type: time_table
+  contents:
+    - items:
+      - Love diving with turtles, especially in Oman :)
+      - Once made a music playing pinball machine fully from scratch with my team, lots of improvisation involved! (we called it Balltoven)
+      - Big fan of anything adrenaline & action, from bungee jumping over water to city skywalks
+      - Please ask me about my Fujifilm. 

@@ -3,7 +3,7 @@ layout: page
 title: Half Court Shop
 importance: 2
 description: 3D Unity Basketball Pizza Game
-img: assets/img/Pizza.png
+img: assets/img/gameplay.gif
 tag: work
 published: false
 ---
