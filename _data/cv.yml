@@ -41,14 +41,16 @@
   type: time_table
   contents:
     - title: National Highschool Games Academy Programming Teaching Assistant 
-      institution: Entertainment Technology Center
+      institution: Carnegie Mellon Univeristy
       description: 
-      - Prepared workshops ranging on different topics
+      - Prepared workshops ranging on topics of Designing Educational Games as well as Unity Optimization and Pitfalls
+      - Managed 16 students in my programming cohort as well as held office hours   
+
       
 
   
     - title: Prototyping Lead — SoKids
-      institution: Carnegie Mellon University
+      institution: The Center for Transformational Play
       description:
         - Lead programmer on an interdisciplinary team of 6 building a research tool at the intersection of child psychology, game design, and social science
         - Architected a data collection system tracking over 10 behavioral and response data points per session for children ages 3–6
