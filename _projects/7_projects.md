@@ -3,8 +3,8 @@ layout: page
 title: Ben
 importance: 2
 description: 2D Horror Platformer
-img: 
-published: false
+img: assets/img/level-one.gif
+published: true
 ---
 
 
