@@ -1,0 +1,7 @@
+<!-- _includes/cv/map.html -->
+{% for item in entry.contents %}
+  <div class="row mt-2 mt-md-0">
+    <div class="col-md-3 font-weight-bold">{{ item.name }}</div>
+    <div class="col-md-9">{{ item.value }}</div>
+  </div>
+{% endfor %}

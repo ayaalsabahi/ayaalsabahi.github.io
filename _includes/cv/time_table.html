@@ -1,0 +1,43 @@
+<!-- _includes/cv/time_table.html -->
+{% for item in entry.contents %}
+  <div class="row mt-2 mt-md-0">
+    {% if item.year %}
+      <div class="col-md-2 font-weight-bold">{{ item.year }}</div>
+      <div class="col-md-10">
+    {% else %}
+      <div class="col-md-12">
+    {% endif %}
+      {% if item.title %}
+        <span class="font-weight-bold">{{ item.title }}</span>
+      {% endif %}
+      {% if item.institution %}
+        <br/><span class="text-muted">{{ item.institution }}</span>
+      {% endif %}
+      {% if item.description %}
+        <ul class="mt-1">
+          {% for desc in item.description %}
+            {% if desc.contents %}
+              <li>
+                {% if desc.title %}<span class="font-weight-bold">{{ desc.title }}</span>{% endif %}
+                <ul>
+                  {% for subdesc in desc.contents %}
+                    <li>{{ subdesc }}</li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              <li>{{ desc }}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+      {% if item.items %}
+        <ul class="mt-1">
+          {% for i in item.items %}
+            <li>{{ i }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}

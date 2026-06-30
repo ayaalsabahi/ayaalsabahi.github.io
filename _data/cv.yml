@@ -4,19 +4,22 @@
     - name: Full Name
       value: Aya Al Sabahi
     - name: Languages
-      value: English, Arabic
+      value: English & Arabic
+    - name: Email 
+      value: theayaalsabahi [at] gmail [dot] com
 
 - title: Education
   type: time_table
   contents:
-    - title: Master's of Entertainment Technology
-      institution: Carnegie Mellon University, Pittsburgh, PA
+    - title: Master of Entertainment Technology
+      institution: Carnegie Mellon University
       year: 2027
       description:
         - Concentration in Transformational Play
 
     - title: B.Sc. in Computer Science
       institution: Carnegie Mellon University
+      year: 2025
       description:
         - Minor in Game Design
         - title: Selected Courses
@@ -34,23 +37,21 @@
             - Cognitive Psychology
 
 
-    - title: International School of Chouifat
-      institution: Muscat, Oman
-      year: 2021
-      description:
-        - title: Advanced Placement Scholar with Honor
-          contents:
-            - Physics C
-            - AB Calculus
-            - Computer Science A
-            - Psychology
-
 - title: Experience
   type: time_table
   contents:
-    - title: Programming Lead — SoKids
-      institution: Carnegie Mellon University
-      year: Jan 2026 - Present
+    - title: National Highschool Games Academy Programming Teaching Assistant 
+      institution: Carnegie Mellon Univeristy
+      description: 
+      - Taught a workshop on Designing Educational game to 19 students
+      - Managed 16 students in my programming cohort and graded assignments
+      - Held office hours daily for 2 hours 
+
+      
+
+  
+    - title: Prototyping Lead — SoKids
+      institution: The Center for Transformational Play
       description:
         - Lead programmer on an interdisciplinary team of 6 building a research tool at the intersection of child psychology, game design, and social science
         - Architected a data collection system tracking over 10 behavioral and response data points per session for children ages 3–6
@@ -59,7 +60,6 @@
 
     - title: Outreach Specialist Intern
       institution: Tokyo Seitoku University, Tokyo, Japan
-      year: July 2024 - Aug 2024
       description:
         - Conducted a survey analyzing student engagement, yielding insights to improve participation by approximately 25%
         - Created interactive language-learning games that improved language proficiency metrics by more than 20%
@@ -67,38 +67,28 @@
 
     - title: Teaching Assistant
       institution: Carnegie Mellon University
-      year: Jan 2022 - Dec 2024
       description:
-        - Guided students across multiple programming and logic courses (15-110, 15-112, )
+        - Guided students across multiple programming and logic courses (15-110, 15-112, 80-210)
         - Held 6 office hours weekly supporting over 50 students combined
         - Mentored 7 student-led term projects, 4 focused on game development — several featured at end-of-semester showcase
 
     - title: Software Developer Intern
       institution: PhazeRo, Muscat, Oman
-      year: June 2022 - July 2022
       description:
-        - Built backend for an internal applicant management system using NodeJS and REST APIs
-        - Produced an onboarding document that improved knowledge transfer for future interns
+        - Built backend for an internal applicant management system using NodeJS and REST API
+        - Produced an onboarding document that improved knowledge transfer for future interns that included most used git commands
 
 - title: Projects
   type: time_table
   contents:
-    - title: SoKids — Social Categorization Game Based Assessment
-      institution: Unity · C#
-      year: Jan 2026 - Present
-      description:
-        - Research tool studying how children ages 3–6 perceive social categories including race
-        - Architected a data collection system capturing how children ages 3–6 perceive social categories including race — tracking over 10 behavioral and response data points per session
-        - Designed and built two distinct prototype structures (linear and Hub & Spoke) spanning 18 scenes and tasks, balancing research rigor with age-appropriate interactivity
 
-
-    - title: Computer Graphics Engine
+    - title: Computer Graphics Engine tools
       institution: C++
-      year: Jan 2026 - Present
+      year: Jan 2026 - May 2026
       description:
         - Ray tracer with shadows, reflections, BVH acceleration, and Monte Carlo anti-aliasing
         - CPU-based rasterization pipeline with z-buffering and Phong shading
-        - Half-edge mesh structure supporting subdivision, smoothing, and geometric transformations
+        - Half-edge mesh structure supporting subdivision, smoothing, and other geometric transformations
 
     - title: Wings of Trouble — VR Game
       institution: Unity · Meta Quest 3 · C#
@@ -107,7 +97,7 @@
         - Presented at Carnegie Mellon's 3rd Extended Reality Technology Center symposium
         - Implemented bird flight mechanics and teleportation for immersive VR navigation
 
-    - title: Embiggened Indignant Cygnet
+    - title: Embiggened Indignant Cygnet - 3D Closed World
       institution: Unity · C#
       year: Mar 2024 - Apr 2024
       description:
@@ -136,31 +126,36 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025 - 2027 
+    - year: 2025 - 2027
       items: 
         - Carneegie Mellon Entertainemnt Technology Center Fellow
     - year: 2021 - 2025
       items:
         - Qatari Amiri Diwan Full Ride Scholarship, awarded to 5 Omani students per year competitively
-    - year: 2022 - 2024
+    - year: 2021 - 2025
       items:
         - Dean's List — Fall 2022, Spring 2024, Fall 2024
-    - year: 2021
+    - year: 2021 
       items:
         - Advanced Placement Scholar with Honor
 
 - title: Activities & Leadership
   type: time_table
   contents:
-    - year: 2024 - Present
-      items:
+    - year: 2026 
+      items: 
+        - Volunteered at the Carnegie Mellon ETC booth at the Game Developers Conference 
+    - years: 2025
+        - Volunteered at the Carnegie Mellon ETC booth for the Pittsburgh Robotics & AI Discovery Day
+        
+    - year: 2021 - 2025
+      items: 
         - Founder, Film Photography Club — cooperated with Khalifa Art Center to deliver a photo walk and film development workshop
-    - year: 2022 - 2024
-      items:
         - Teaching Assistant and Academic Review Board member, Carnegie Mellon University
         - Executive Member, Computing Club — presented talk on game development, organized events including end-of-year CS party and monthly Bits & Bites
         - Executive Member (Writing), Arts & Crafts Club — wrote monthly articles for the lam7a campus newsletter on art and the world
         - Social Media Assistant, CS Department — crafted LinkedIn & Instagram posts and increased engagement
+
 
 - title: Skills
   type: map
@@ -171,3 +166,13 @@
       value: Unity, Maya, Git
     - name: Languages
       value: English, Arabic
+    
+
+- title: Other Shenanigans
+  type: time_table
+  contents:
+    - items:
+      - Love diving with turtles, especially in Oman :)
+      - Once made a music playing pinball machine fully from scratch with my team, lots of improvisation involved! (we called it Balltoven)
+      - Big fan of anything adrenaline & action, from bungee jumping over water to city skywalks
+      - Please ask me about my Fujifilm. 

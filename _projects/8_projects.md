@@ -3,7 +3,7 @@ layout: page
 title: Embiggend Indignant Cygnet
 importance: 1
 description: User Centered Design
-image: 
+img: assets/img/duck.png
 tag: work
 ---
 

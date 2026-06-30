@@ -3,7 +3,7 @@ layout: page
 title: Finding Oberon
 importance: 2
 description: Rapid Prototyping 
-image:  assets/img/game-cover.png
+img:  assets/img/game-cover.png
 tag: work
 ---
 

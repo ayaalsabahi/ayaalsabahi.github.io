@@ -3,7 +3,7 @@ layout: page
 title: Lost in Mutrah (Oman)
 importance: 1
 description: Rapid Prototyping & Cross-Cultural Awarness
-image:
+img: assets/img/walkingaround.gif
 tag: work
 ---
 

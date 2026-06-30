@@ -104,7 +104,7 @@ GEM
       kramdown (~> 2.0)
     latex-decode (0.4.0)
     libv8-node (16.10.0.0-arm64-darwin)
-    liquid (4.0.3)
+    liquid (4.0.4)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -167,6 +167,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-twitter-plugin
   jemoji
+  liquid (~> 4.0.4)
   mini_racer
   unicode_utils
   webrick

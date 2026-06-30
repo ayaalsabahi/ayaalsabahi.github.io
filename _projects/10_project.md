@@ -3,7 +3,7 @@ layout: page
 title: Wings of Trouble
 importance: 1
 description: Rapid Prototying (in VR) & User Centered Design
-image: 
+img: assets/img/wings.jpg
 tag: work
 ---
 
