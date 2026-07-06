@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ayaalsabahi.github.io)",
+      "Bash(ruby -v)",
+      "Bash(bundle -v)",
+      "Bash(bundle exec *)",
+      "Read(//Users/ayaalsabahi/.rbenv/versions/**)",
+      "Bash(docker --version)",
+      "Bash(docker info *)",
+      "Bash(ls /Applications | grep -i -E \"chrome|chromium|edge|brave\"; which chromium chrome google-chrome 2>/dev/null; ls ~/Library/Caches/ms-playwright 2>/dev/null | head)",
+      "Read(//Applications/**)",
+      "Read(//Users/ayaalsabahi/Library/Caches/**)",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless=new --disable-gpu --window-size=1200,800 --screenshot=/private/tmp/claude-501/-Users-ayaalsabahi-Documents-projects-mywebsite-ayaalsabahi-github-io/66cedad2-8acb-4b6c-bb71-a03241940c56/scratchpad/sokids-cover.png file:///private/tmp/claude-501/-Users-ayaalsabahi-Documents-projects-mywebsite-ayaalsabahi-github-io/66cedad2-8acb-4b6c-bb71-a03241940c56/scratchpad/sokids-cover.html)",
+      "Bash(cp \"/private/tmp/claude-501/-Users-ayaalsabahi-Documents-projects-mywebsite-ayaalsabahi-github-io/66cedad2-8acb-4b6c-bb71-a03241940c56/scratchpad/sokids-cover.png\" assets/img/sokids-cover.png && ls -la assets/img/sokids-cover.png)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(kill 52082 52084)",
+      "Bash(pkill -f \"bundle exec ruby\")",
+      "Bash(brctl status *)"
+    ],
+    "additionalDirectories": [
+      "/Users/ayaalsabahi/Documents/projects/mywebsite/ayaalsabahi.github.io/assets/img"
+    ]
+  }
+}

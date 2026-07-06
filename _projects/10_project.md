@@ -2,9 +2,10 @@
 layout: page
 title: Wings of Trouble
 importance: 1
-description: Rapid Prototying (in VR) & User Centered Design
+description: Rapid Prototyping (in VR) & User Centered Design
 img: assets/img/wings.jpg
 tag: work
+meta: VR prototype · Unity + Quest 3 · 3 weeks · Team of 5
 ---
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -37,7 +38,7 @@ Three weeks to come up with ideas up to completion.
 
 Credits:
 
-**Programers**
+**Programmers**
 
 Aya Al Sabahi
 

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Embiggend Indignant Cygnet
+title: Embiggened Indignant Cygnet
 importance: 1
 description: User Centered Design
 img: assets/img/duck.png
 tag: work
+meta: 3D game · Unity · 1 month · Team project
 ---
 
 
@@ -20,7 +21,7 @@ tag: work
 **Game concept:** 
 I created the AI of police ducks and normal ducks of fleeing as well as chasing the player, UI of the game, eating mechanism as well as sound design. 
 
-Our goal was to create as subtle pushes as possible without screaming at the player where to go whilst unlocking sidequests. This was done through 3D sounds emerssing the player in different environments, subtle ques with the police ducks chasing, as well as a question and exclamation mark when ducks are suspicious they would eat and run away from you respectivley.
+Our goal was to create as subtle pushes as possible without screaming at the player where to go whilst unlocking sidequests. This was done through 3D sounds immersing the player in different environments, subtle cues with the police ducks chasing, as well as a question and exclamation mark when ducks are suspicious they would eat and run away from you respectively.
 
 For next time, we would work on creating those eating moments a lot more juicy, with more effect such as the eaten duck shrinking rather than just dissapearing. 
 
@@ -47,4 +48,4 @@ Mac
 Theme was to create a game based on a fairytale, we chose the ugly duckling! 
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
-We had a month, roughly put in 10 - 15 hours per week into this ptojrct. 
+We had a month, roughly put in 10 - 15 hours per week into this project. 

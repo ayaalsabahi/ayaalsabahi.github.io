@@ -5,6 +5,7 @@ importance: 2
 description: Rapid Prototyping 
 img:  assets/img/game-cover.png
 tag: work
+meta: Game jam · Unity · 3 weeks · Team of 3
 ---
 
 
@@ -24,12 +25,12 @@ tag: work
 
 ## <span style="color: #daa520;"> Design Process </span>
 
-**Game concept:** "Finding Oberon", Oberon being the King of Faries in medival folklore. Wanted to incoorperate calming Lo-Fi music with a relaxing environment that allows you to step into a different world.
+**Game concept:** "Finding Oberon", Oberon being the King of Fairies in medieval folklore. Wanted to incorporate calming Lo-Fi music with a relaxing environment that allows you to step into a different world.
 
 **Core mechanics:**
 - 3D movement with 1st person perspective, clipped so that player does not turn 360 degrees
-- Quest completion with 3 quests, with the subsequent only unlocking as well as UI and Assets (like cauldron) popping up if prerequisits are satsfied
-- tells a story of finding a forest, gathering ingredients, cooking, then learning new calming tea recipies
+- Quest completion with 3 quests, with the subsequent only unlocking as well as UI and Assets (like cauldron) popping up if prerequisites are satisfied
+- tells a story of finding a forest, gathering ingredients, cooking, then learning new calming tea recipes
 
 **Art:**
 - Warm color palette with pastel colors to give a cozy vibe and atmosphere 
@@ -49,7 +50,7 @@ tag: work
 Like many other devs & artists, I had a bunch of half - done or almost done projects, with not many that were polished. I really wanted to create something that was from games I loved playing with it being a bit simplified that is open world, has multiple quests and a theme of repetition of ending things to reaching where they are at the end of the day. 
 
 ## <span style="color: #8a837d;">Scope and Outline</span>
-We created this game for an itch.io 3 week game jam, I took care of the programming and game deisgn aspects, all the way from the placement of items on the map to the storyline and post-production effects.
+We created this game for an itch.io 3 week game jam, I took care of the programming and game design aspects, all the way from the placement of items on the map to the storyline and post-production effects.
 
 
 

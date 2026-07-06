@@ -2,9 +2,10 @@
 layout: page
 title: Lost in Mutrah (Oman)
 importance: 1
-description: Rapid Prototyping & Cross-Cultural Awarness
+description: Rapid Prototyping & Cross-Cultural Awareness
 img: assets/img/walkingaround.gif
 tag: work
+meta: Narrative game · Unity · Solo
 ---
 
 <div class="row mt-3">

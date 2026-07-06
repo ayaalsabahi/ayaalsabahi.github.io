@@ -41,13 +41,13 @@
   type: time_table
   contents:
     - title: National Highschool Games Academy Programming Teaching Assistant 
-      institution: Carnegie Mellon Univeristy
-      description: 
+      institution: Carnegie Mellon University
+      description:
       - Taught a workshop on Designing Educational game to 19 students
       - Managed 16 students in my programming cohort and graded assignments
       - Held office hours daily for 2 hours 
   
-    - title: Prototyping Lead — SoKids
+    - title: Prototyping Lead for SoKids
       institution: The Center for Transformational Play
       description:
         - Lead programmer on an interdisciplinary team of 6 building a research tool at the intersection of child psychology, game design, and social science
@@ -79,7 +79,7 @@
   type: time_table
   contents:
 
-    - title: Computer Graphics Engine tools
+    - title: Computer Graphics Engine
       institution: C++
       year: Jan 2026 - May 2026
       description:
@@ -87,26 +87,26 @@
         - CPU-based rasterization pipeline with z-buffering and Phong shading
         - Half-edge mesh structure supporting subdivision, smoothing, and other geometric transformations
 
-    - title: Wings of Trouble — VR Game
+    - title: Wings of Trouble, VR Game
       institution: Unity · Meta Quest 3 · C#
       year: Oct 2025
       description:
         - Presented at Carnegie Mellon's 3rd Extended Reality Technology Center symposium
         - Implemented bird flight mechanics and teleportation for immersive VR navigation
 
-    - title: Embiggened Indignant Cygnet - 3D Closed World
+    - title: Embiggened Indignant Cygnet, 3D Closed World
       institution: Unity · C#
       year: Mar 2024 - Apr 2024
       description:
         - Developed enemy AI, alert system, player mechanics, UI features, and sound design
 
-    - title: Finding Oberon — 3D Open World Game
+    - title: Finding Oberon, 3D Open World Game
       institution: Unity · C#
       year: July 2023
       description:
         - Led a team of 3 to build a mini open-world game with three side quests in 1.5 weeks for a game jam
 
-    - title: Bibiborg — 3D Animation
+    - title: Bibiborg, 3D Animation
       institution: Maya · ZBrush · Substance Painter
       year: June 2023 - July 2023
       description:
@@ -125,7 +125,7 @@
   contents:
     - year: 2025 - 2027
       items: 
-        - Carneegie Mellon Entertainemnt Technology Center Fellow
+        - Carnegie Mellon Entertainment Technology Center Fellow
     - year: 2021 - 2025
       items:
         - Qatari Amiri Diwan Full Ride Scholarship, awarded to 5 Omani students per year competitively
@@ -142,7 +142,8 @@
     - year: 2026 
       items: 
         - Volunteered at the Carnegie Mellon ETC booth at the Game Developers Conference 
-    - years: 2025
+    - year: 2025
+      items:
         - Volunteered at the Carnegie Mellon ETC booth for the Pittsburgh Robotics & AI Discovery Day
         
     - year: 2021 - 2025

@@ -14,7 +14,7 @@ footer_text:
 keywords:   # add your own keywords or leave empty
 
 lang: en 
-icon: ⛅
+icon: A
 
 url: https://ayaalsabahi.github.io # the base hostname & protocol for your site
 baseurl:  "/" # the subpath of your site, e.g. /blog/
@@ -46,7 +46,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px

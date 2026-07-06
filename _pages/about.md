@@ -3,42 +3,52 @@ layout: about
 title: Home
 permalink: /
 subtitle:
-news: true  # includes a list of news items
+news: false
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 
 ---
-{% raw %}
 
-I’m a Masters student in **Entertainment Technology** with a background in computer science, focused on bridging the gap between user needs, design, and implementation to help teams move from **idea** to **impactful interactive experiences**.
-
-Together, I bring:
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem; margin: 1.5rem 0;">
-
-  <div style="border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 1.2rem; border-top: 2px solid #4db6c4;">
-    <p style="font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.5; margin-bottom: 0.5rem;">01</p>
-    <p style="font-weight: 500; margin-bottom: 0.4rem;">Rapid Prototyping & Systems Thinking</p>
-    <p style="font-size: 0.85rem; opacity: 0.7; line-height: 1.6;">Turning ideas into functional experiences that bridge design and engineering, leveraging computer graphics and distributed systems for performance and scalability.</p>
-  </div>
-
-  <div style="border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 1.2rem; border-top: 2px solid #4db6c4;">
-    <p style="font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.5; margin-bottom: 0.5rem;">02</p>
-    <p style="font-weight: 500; margin-bottom: 0.4rem;">User-Centered Design & Research</p>
-    <p style="font-size: 0.85rem; opacity: 0.7; line-height: 1.6;">Uncovering what users actually need and translating those insights into clear, actionable design decisions so teams build the right product from the start.</p>
-  </div>
-
-  <div style="border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 1.2rem; border-top: 2px solid #4db6c4;">
-    <p style="font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.5; margin-bottom: 0.5rem;">03</p>
-    <p style="font-weight: 500; margin-bottom: 0.4rem;">Cross-Cultural Audience Awareness</p>
-    <p style="font-size: 0.85rem; opacity: 0.7; line-height: 1.6;">Designing experiences that resonate across diverse audiences by accounting for cultural context, behavior, and interpretation.</p>
-  </div>
-
+<div class="hero" markdown="0">
+  <svg class="signature-mark" viewBox="0 0 200 200" aria-hidden="true" focusable="false">
+    <g class="sig-spokes" fill="none" stroke-width="2.5" stroke-linecap="round">
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="178" y2="100"/>
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="155.15" y2="44.85"/>
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="100" y2="22"/>
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="44.85" y2="44.85"/>
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="22" y2="100"/>
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="44.85" y2="155.15"/>
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="100" y2="178"/>
+      <line class="spoke" pathLength="1" x1="100" y1="100" x2="155.15" y2="155.15"/>
+    </g>
+    <g class="sig-nodes">
+      <circle class="node node-hub" cx="100" cy="100" r="6"/>
+      <circle class="node" cx="178" cy="100" r="4"/>
+      <circle class="node" cx="155.15" cy="44.85" r="4"/>
+      <circle class="node" cx="100" cy="22" r="4"/>
+      <circle class="node" cx="44.85" cy="44.85" r="4"/>
+      <circle class="node" cx="22" cy="100" r="4"/>
+      <circle class="node" cx="44.85" cy="155.15" r="4"/>
+      <circle class="node" cx="100" cy="178" r="4"/>
+      <circle class="node" cx="155.15" cy="155.15" r="4"/>
+    </g>
+  </svg>
+  <span class="meta-line hero-kicker">Gameplay Prototyper — Carnegie Mellon Entertainment Technology Center</span>
+  <h1 class="hero-headline">I turn ideas into <em class="playable">interactive</em> prototypes, fast.</h1>
+  <p class="hero-lede">Masters student at Carnegie Mellon's Entertainment Technology Center, CS undergrad from CMU. I build the version you can playtest this week.
+  
+  I design for the people on the other side of the screen: preschoolers, first-time VR players, audiences that games usually overlook.</p>
 </div>
 
-Most recently, I was the lead prototyper for **[SoKids](https://projects.etc.cmu.edu/sokids/)**, a research-driven, play-based interactive system that uses touchscreen games to study how preschoolers categorize social categories while supporting developmental psychology research through natural, engaging interactions.
+<div class="featured" markdown="1">
+  <p class="meta-line section-label">Featured — SoKids</p>
 
-Prior work in **[projects](https://ayaalsabahi.github.io/projects/)**.
+  Prototyping lead on an interdisciplinary team of six at the Center for Transformational Play, building a touchscreen, play-based research instrument that studies how children aged 3 to 6 categorize social groups. I built the data capture system and two study structures spanning 18 scenes, turning a research question into something children can actually sit down and play.
 
-{% endraw %}
+  [Read the case study](/projects/0_sokids/){: .text-link}
+</div>
+
+<p class="meta-line section-label">Selected work</p>
+
+More prototypes and experiments live in [projects](/projects/){: .text-link}.

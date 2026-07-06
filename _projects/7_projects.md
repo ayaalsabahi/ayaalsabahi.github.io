@@ -5,6 +5,7 @@ importance: 2
 description: 2D Horror Platformer
 img: assets/img/level-one.gif
 published: true
+meta: 2D platformer · Unity · Producer and programmer
 ---
 
 
@@ -37,7 +38,7 @@ I held a producer role for this project, used a Trello board ensuring that tasks
 
 I also worked on sound design and integration, I also programmed in the intro level, second puzzle, and final boss level. 
 
-My other teamates worked on UI, mechanics of how the boy and mouse move, first level, as well as integrating the art in after greyboxing. 
+My other teammates worked on UI, mechanics of how the boy and mouse move, first level, as well as integrating the art in after greyboxing. 
 
 [Game Design Document](https://docs.google.com/document/d/1z_KHMWVxmFfdiMYL9iPeUflqweewWXzPKX91nPFF9V4/edit?usp=sharing)
 

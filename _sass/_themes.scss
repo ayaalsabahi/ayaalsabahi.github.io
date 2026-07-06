@@ -3,18 +3,24 @@
  ******************************************************************************/
  
 :root {
-  --global-bg-color: #{$white-color};
+  // Typography (shared across themes)
+  --font-sans: "Atkinson Hyperlegible", "Gill Sans", "Trebuchet MS", sans-serif;
+  --font-display: "Space Grotesk", "Avenir Next", "Futura", sans-serif;
+
+  --global-bg-color: #FAF9F7;
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-text-color: #1B1A19;
+  --global-text-color-light: #6B6863;
+  --global-theme-color: #227C8A;
+  --global-theme-color: oklch(0.55 0.09 215);
+  --global-hover-color: #1C6C78;
+  --global-hover-color: oklch(0.48 0.09 215);
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0,0,0,.1);
-  --global-card-bg-color: #{$white-color};
+  --global-divider-color: rgba(27,26,25,0.12);
+  --global-card-bg-color: #FFFEFC;
 
   .fa-sun {
     display : none;
@@ -34,18 +40,20 @@
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #151413;
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
+  --global-text-color: #E9E7E4;
+  --global-text-color-light: #9B9791;
+  --global-theme-color: #7FC4CF;
+  --global-theme-color: oklch(0.78 0.08 215);
+  --global-hover-color: #9BD3DB;
+  --global-hover-color: oklch(0.84 0.07 215);
+  --global-footer-bg-color: #1E1D1B;
+  --global-footer-text-color: #9B9791;
+  --global-footer-link-color: #E9E7E4;
   --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #424246;
-  --global-card-bg-color: #{$grey-900};
+  --global-divider-color: rgba(233,231,228,0.14);
+  --global-card-bg-color: #1E1D1B;
 
   .fa-sun {
     padding-left: 10px;
