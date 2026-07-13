@@ -34,7 +34,7 @@ nav_order: 1
       <circle class="node" cx="155.15" cy="155.15" r="4"/>
     </g>
   </svg>
-  <span class="meta-line hero-kicker">Gameplay Prototyper — Carnegie Mellon Entertainment Technology Center</span>
+  <span class="meta-line hero-kicker"> Gameplay Prototyper & Software Engineer — Carnegie Mellon Entertainment Technology Center</span>
   <h1 class="hero-headline">I turn ideas into <em class="playable">interactive</em> prototypes, fast.</h1>
   <p class="hero-lede">Masters student at Carnegie Mellon's Entertainment Technology Center, CS undergrad from CMU. I build the version you can playtest this week.
   
