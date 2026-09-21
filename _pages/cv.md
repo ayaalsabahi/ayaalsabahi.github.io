@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Experience
+title: Resume
 permalink: /cv/
 nav: true
 nav_order: 2

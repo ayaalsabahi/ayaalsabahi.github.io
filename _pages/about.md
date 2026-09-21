@@ -33,18 +33,24 @@ nav_order: 1
       <circle class="node" cx="100" cy="178" r="4"/>
       <circle class="node" cx="155.15" cy="155.15" r="4"/>
     </g>
-  </svg>
-  <span class="meta-line hero-kicker"> Gameplay Prototyper & Software Engineer — Carnegie Mellon Entertainment Technology Center</span>
-  <h1 class="hero-headline">I turn ideas into <em class="playable">interactive</em> prototypes, fast.</h1>
-  <p class="hero-lede">Masters student at Carnegie Mellon's Entertainment Technology Center, CS undergrad from CMU. I build the version you can playtest this week.
-  
-  I design for the people on the other side of the screen: preschoolers, first-time VR players, audiences that games usually overlook.</p>
-</div>
+    </svg>
+    <span class="meta-line hero-kicker"><span class="kicker-highlight">Product-minded engineer</span> · Carnegie Mellon ETC · Available Summer 2027</span>
+    <h1 class="hero-headline">I build <em class="playable">playable</em> prototypes to find out what people actually need.</h1>
+    <p class="hero-lede">Master's student at Carnegie Mellon's Entertainment Technology Center, with a B.S. in Computer Science from CMU. I get a version in front of users this week, then let what they do decide what gets built next.</p>
+    <p class="hero-lede">My users are often ones products overlook: preschoolers, first-time VR players, students learning in a second language.</p>
+    <p class="hero-links">
+      <a href="/cv/" class="text-link">Resume</a> ·
+      <a href="/projects/" class="text-link">Projects</a> ·
+      <a href="mailto:theayaalsabahi@gmail.com" class="text-link">Contact</a>
+    </p>
+  </div>
 
 <div class="featured" markdown="1">
   <p class="meta-line section-label">Featured — SoKids</p>
 
-  Prototyping lead on an interdisciplinary team of six at the Center for Transformational Play, building a touchscreen, play-based research instrument that studies how children aged 3 to 6 categorize social groups. I built the data capture system and two study structures spanning 18 scenes, turning a research question into something children can actually sit down and play.
+  Engineering lead on an interdisciplinary team of six at the Center for Transformational Play, building a touchscreen, play-based research instrument that studies how children aged 3 to 6 categorize social groups.
+  
+  I built the data capture system and two study structures spanning 18 scenes, turning a research question into something children can actually sit down and play.
 
   [Read the case study](/projects/0_sokids/){: .text-link}
 </div>

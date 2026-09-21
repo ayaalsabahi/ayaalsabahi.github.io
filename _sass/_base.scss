@@ -958,7 +958,18 @@ progress {
     font-size: 1.05rem;
     line-height: 1.6;
     max-width: 42rem;
-    margin: 0;
+    margin: 0 0 0.75rem;
+  }
+
+  .hero-links {
+    margin-top: 1.25rem;
+  }
+
+  .kicker-highlight {
+    color: var(--global-theme-color);
+    background-color: color-mix(in oklch, var(--global-theme-color) 12%, transparent);
+    border-radius: 3px;
+    padding: 0.1em 0.35em;
   }
 }
 
