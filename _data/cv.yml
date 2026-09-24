@@ -123,6 +123,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items: 
+        - Serious Play Speaker @ Duke
+        - Presenter @ CMU XRTC symposium
     - year: 2025 - 2027
       items: 
         - Carnegie Mellon Entertainment Technology Center Fellow
