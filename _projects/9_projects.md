@@ -5,6 +5,7 @@ importance: 1
 description: Music Playing Pinball Machine
 img: assets/img/balltoven1.jpeg
 tag: work
+category: Games
 published: false
 ---
 

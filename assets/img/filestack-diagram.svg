@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Client connected to a Naming Server, which connects to three Storage Servers">
+  <rect width="400" height="300" fill="#EFF6F7"/>
+  <g stroke="#227C8A" stroke-width="2.5" stroke-linecap="round" opacity="0.55">
+    <line x1="70" y1="150" x2="190" y2="150"/>
+    <line x1="210" y1="150" x2="320" y2="70"/>
+    <line x1="210" y1="150" x2="330" y2="150"/>
+    <line x1="210" y1="150" x2="320" y2="230"/>
+  </g>
+  <g>
+    <circle cx="60" cy="150" r="20" fill="#227C8A"/>
+    <circle cx="200" cy="150" r="26" fill="#1B6470"/>
+    <circle cx="330" cy="70" r="16" fill="#7FC4CF"/>
+    <circle cx="340" cy="150" r="16" fill="#7FC4CF"/>
+    <circle cx="330" cy="230" r="16" fill="#7FC4CF"/>
+  </g>
+</svg>

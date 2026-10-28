@@ -5,6 +5,7 @@ importance: 1
 description: Rapid Prototyping & Cross-Cultural Awareness
 img: assets/img/walkingaround.gif
 tag: work
+category: Games
 meta: Narrative game · Unity · Solo
 ---
 

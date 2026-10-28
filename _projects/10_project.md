@@ -5,6 +5,7 @@ importance: 1
 description: Rapid Prototyping (in VR) & User Centered Design
 img: assets/img/wings.jpg
 tag: work
+category: Games
 meta: VR prototype · Unity + Quest 3 · 3 weeks · Team of 5
 ---
 

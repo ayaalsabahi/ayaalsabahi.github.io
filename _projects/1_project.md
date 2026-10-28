@@ -5,6 +5,7 @@ importance: 1
 description: Maya 3D Animation
 img: assets/img/bibiborg-ss.png
 tag: work
+category: Games
 published: true
 meta: 3D animation · Maya + ZBrush · 5 weeks · Solo
 ---

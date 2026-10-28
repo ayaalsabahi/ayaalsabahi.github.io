@@ -5,6 +5,7 @@ importance: 2
 description: Rapid Prototyping 
 img:  assets/img/game-cover.png
 tag: work
+category: Games
 meta: Game jam · Unity · 3 weeks · Team of 3
 ---
 

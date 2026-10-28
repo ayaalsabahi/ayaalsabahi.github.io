@@ -1,10 +1,11 @@
 ---
 layout: page
 title: SoKids
-importance: 0
+importance: 1
 description: Research Prototyping for Developmental Psychology
 img: assets/img/sokids-cover.png
 tag: work
+category: Research
 meta: Research prototype · Unity · Team of 6
 ---
 

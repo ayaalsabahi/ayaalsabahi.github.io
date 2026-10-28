@@ -34,10 +34,9 @@ nav_order: 1
       <circle class="node" cx="155.15" cy="155.15" r="4"/>
     </g>
     </svg>
-    <span class="meta-line hero-kicker"><span class="kicker-highlight">Product-minded engineer</span> · Carnegie Mellon ETC · Available Summer 2027</span>
-    <h1 class="hero-headline">I build <em class="playable">playable</em> prototypes to find out what people actually need.</h1>
-    <p class="hero-lede">Master's student at Carnegie Mellon's Entertainment Technology Center, with a B.S. in Computer Science from CMU. I get a version in front of users this week, then let what they do decide what gets built next.</p>
-    <p class="hero-lede">My users are often ones products overlook: preschoolers, first-time VR players, students learning in a second language.</p>
+    <span class="meta-line hero-kicker"><span class="kicker-highlight">Systems-minded engineer</span> · Carnegie Mellon ETC · Available Summer 2027</span>
+    <h1 class="hero-headline">I build systems that stay <em class="playable">correct</em> under load, not just code that runs once.</h1>
+    <p class="hero-lede">Master's student at Carnegie Mellon's Entertainment Technology Center (B.S. Computer Science, CMU). I build things from first principles — file systems, renderers, data pipelines — and care about what happens at the edges: concurrent writers, degraded networks, load that doesn't let up.</p>
     <p class="hero-links">
       <a href="/cv/" class="text-link">Resume</a> ·
       <a href="/projects/" class="text-link">Projects</a> ·
@@ -45,16 +44,20 @@ nav_order: 1
     </p>
   </div>
 
-<div class="featured" markdown="1">
-  <p class="meta-line section-label">Featured — SoKids</p>
+<p class="meta-line section-label">Highlights</p>
 
-  Engineering lead on an interdisciplinary team of six at the Center for Transformational Play, building a touchscreen, play-based research instrument that studies how children aged 3 to 6 categorize social groups.
-  
-  I built the data capture system and two study structures spanning 18 scenes, turning a research question into something children can actually sit down and play.
-
-  [Read the case study](/projects/0_sokids/){: .text-link}
+<div class="container" markdown="0">
+  <div class="row row-cols-2">
+  {%- assign hl1 = site.projects | where: "title", "SoKids" -%}
+  {%- assign hl2 = site.projects | where: "title", "Computer Graphics Systems" -%}
+  {%- assign hl3 = site.projects | where: "title", "Innerverse" -%}
+  {%- assign home_highlights = hl1 | concat: hl2 | concat: hl3 -%}
+  {%- for project in home_highlights -%}
+    {% include projects_horizontal.html %}
+  {%- endfor -%}
+  </div>
 </div>
 
-<p class="meta-line section-label">Selected work</p>
+<p class="meta-line section-label">More work</p>
 
 More prototypes and experiments live in [projects](/projects/){: .text-link}.

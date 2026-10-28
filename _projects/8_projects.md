@@ -5,6 +5,7 @@ importance: 1
 description: User Centered Design
 img: assets/img/duck.png
 tag: work
+category: Games
 meta: 3D game · Unity · 1 month · Team project
 ---
 

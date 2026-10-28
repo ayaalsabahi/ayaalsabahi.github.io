@@ -7,6 +7,7 @@ nav: true
 nav_order: 1
 horizontal: true
 nav_order: 3
+display_categories: [Systems, Research, Games]
 ---
 
 <!-- pages/projects.md -->

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Rays from a camera point passing through a faceted mesh">
+  <rect width="400" height="300" fill="#EFF6F7"/>
+  <g stroke="#227C8A" stroke-width="1.5" stroke-linecap="round" opacity="0.45">
+    <line x1="40" y1="150" x2="220" y2="70"/>
+    <line x1="40" y1="150" x2="230" y2="150"/>
+    <line x1="40" y1="150" x2="220" y2="230"/>
+    <line x1="40" y1="150" x2="270" y2="110"/>
+    <line x1="40" y1="150" x2="270" y2="190"/>
+  </g>
+  <circle cx="40" cy="150" r="10" fill="#1B6470"/>
+  <g fill="none" stroke="#227C8A" stroke-width="2.5" stroke-linejoin="round">
+    <polygon points="220,70 270,110 230,150"/>
+    <polygon points="230,150 270,110 270,190"/>
+    <polygon points="220,230 230,150 270,190"/>
+  </g>
+  <g fill="#7FC4CF">
+    <circle cx="220" cy="70" r="5"/>
+    <circle cx="270" cy="110" r="5"/>
+    <circle cx="230" cy="150" r="5"/>
+    <circle cx="270" cy="190" r="5"/>
+    <circle cx="220" cy="230" r="5"/>
+  </g>
+</svg>
