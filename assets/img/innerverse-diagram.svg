@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Two divergent viewpoints projected onto a curved 270-degree screen">
+  <rect width="400" height="300" fill="#EFF6F7"/>
+  <path d="M 40 230 A 220 220 0 0 1 360 230" fill="none" stroke="#227C8A" stroke-width="4" stroke-linecap="round" opacity="0.55"/>
+  <g stroke="#1B6470" stroke-width="2" stroke-linecap="round" opacity="0.6">
+    <line x1="150" y1="260" x2="95" y2="115"/>
+    <line x1="150" y1="260" x2="175" y2="90"/>
+    <line x1="250" y1="260" x2="225" y2="90"/>
+    <line x1="250" y1="260" x2="305" y2="115"/>
+  </g>
+  <circle cx="150" cy="265" r="12" fill="#227C8A"/>
+  <circle cx="250" cy="265" r="12" fill="#7FC4CF"/>
+  <circle cx="95" cy="110" r="6" fill="#227C8A"/>
+  <circle cx="175" cy="85" r="6" fill="#227C8A"/>
+  <circle cx="225" cy="85" r="6" fill="#7FC4CF"/>
+  <circle cx="305" cy="110" r="6" fill="#7FC4CF"/>
+</svg>
