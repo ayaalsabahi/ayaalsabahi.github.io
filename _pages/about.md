@@ -34,9 +34,9 @@ nav_order: 1
       <circle class="node" cx="155.15" cy="155.15" r="4"/>
     </g>
     </svg>
-    <span class="meta-line hero-kicker"><span class="kicker-highlight">Systems-minded engineer</span> · Carnegie Mellon ETC · Available Summer 2027</span>
+    <span class="meta-line hero-kicker"><span class="kicker-highlight">Systems &amp; Games Engineer</span> · Carnegie Mellon ETC · Available Summer 2027</span>
     <h1 class="hero-headline">I build systems that stay <em class="playable">correct</em> under load, not just code that runs once.</h1>
-    <p class="hero-lede">Master's student at Carnegie Mellon's Entertainment Technology Center (B.S. Computer Science, CMU). I build things from first principles — file systems, renderers, data pipelines — and care about what happens at the edges: concurrent writers, degraded networks, load that doesn't let up.</p>
+    <p class="hero-lede">Master's student at Carnegie Mellon's Entertainment Technology Center (B.S. Computer Science, CMU). I build the systems underneath interactive experiences — renderers, data pipelines, the engines games run on — and care about what happens at the edges: concurrent players, degraded networks, a venue that doesn't behave like your monitor.</p>
     <p class="hero-links">
       <a href="/cv/" class="text-link">Resume</a> ·
       <a href="/projects/" class="text-link">Projects</a> ·
@@ -50,8 +50,7 @@ nav_order: 1
   <div class="row row-cols-2">
   {%- assign hl1 = site.projects | where: "title", "SoKids" -%}
   {%- assign hl2 = site.projects | where: "title", "Computer Graphics Systems" -%}
-  {%- assign hl3 = site.projects | where: "title", "Innerverse" -%}
-  {%- assign home_highlights = hl1 | concat: hl2 | concat: hl3 -%}
+  {%- assign home_highlights = hl1 | concat: hl2 -%}
   {%- for project in home_highlights -%}
     {% include projects_horizontal.html %}
   {%- endfor -%}

@@ -2,11 +2,11 @@
 layout: page
 title: Computer Graphics Systems
 importance: 0
-description: A Renderer Built from Scratch — Rasterizer, MeshEdit, PathTracer, Animation
+description: A Renderer Built from Scratch in C++
 img: assets/img/cg-pathtracer-cbox.png
 tag: work
 category: Systems
-meta: C++ · 15-362/662 Computer Graphics · Individual project
+meta: C++ · 15-362/662 · Individual project
 ---
 
 Four rendering and animation systems, built from scratch in C++ with no graphics framework underneath them, for Carnegie Mellon's Computer Graphics course (15-362/662): a CPU rasterization pipeline, a half-edge mesh editor, a Monte Carlo path tracer, and a skeletal animation/IK system. All renders below are real output from my own code — nothing here is a mockup.
