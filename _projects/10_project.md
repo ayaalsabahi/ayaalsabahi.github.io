@@ -25,7 +25,7 @@ meta: VR prototype · Unity + Quest 3 · 3 weeks · Team of 5
 ## <span style="color: #daa520;"> Design Process </span>
 This project was showcased at Carnegie Mellon’s 3rd Extended Reality Technology Center Symposium, where it was presented as a live interactive demo. I developed intuitive bird-inspired flight mechanics and a teleportation-based navigation system to support comfortable, immersive VR exploration.
 
-Level design focused on indirect player guidance—using environmental cues rather than explicit instructions—allowing first-time users to understand and complete the experience in under three minutes, a result validated through playtesting. The project also features custom start and end UI screens, along with spatial audio integration to enhance immersion and overall user experience.
+Level design focused on indirect player guidance, using environmental cues rather than explicit instructions, allowing first-time users to understand and complete the experience in under three minutes, a result validated through playtesting. The project also features custom start and end UI screens, along with spatial audio integration to enhance immersion and overall user experience.
 
 ## <span style="color: #3d5a80;">Material & Technology Used</span>
 - Unity & C# 

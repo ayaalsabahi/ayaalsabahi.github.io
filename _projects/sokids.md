@@ -62,7 +62,7 @@ Ages 3 to 6 impose hard constraints. The UI has to work for a child who cannot r
 
 ## <span style="color: #DC143C;">Outcome</span>
 
-Findings from the prototypes were presented to faculty and PhD researchers at the Center for Transformational Play. In June 2026, the project was selected to present at **Serious Play 2026** at Duke University — one of the leading venues for games in learning and research.
+Findings from the prototypes were presented to faculty and PhD researchers at the Center for Transformational Play. In June 2026, the project was selected to present at **Serious Play 2026** at Duke University, one of the leading venues for games in learning and research.
 
 <div class="row mt-3">
     <div class="col-sm-8 mx-auto">
