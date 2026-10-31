@@ -36,7 +36,7 @@ nav_order: 1
     </svg>
     <span class="meta-line hero-kicker"><span class="kicker-highlight">Systems &amp; Games Engineer</span> · Carnegie Mellon ETC · Available Summer 2027</span>
     <h1 class="hero-headline">I build systems that stay <em class="playable">correct</em> under load, not just code that runs once.</h1>
-    <p class="hero-lede">Master's student at Carnegie Mellon's Entertainment Technology Center (B.S. Computer Science, CMU). I build the systems underneath interactive experiences — renderers, data pipelines, the engines games run on — and care about what happens at the edges: concurrent players, degraded networks, a venue that doesn't behave like your monitor.</p>
+    <p class="hero-lede">Master's student at Carnegie Mellon's Entertainment Technology Center (B.S. Computer Science, CMU). I build the architecture underneath interactive experiences — renderers, data pipelines, distributed systems.</p>
     <p class="hero-links">
       <a href="/cv/" class="text-link">Resume</a> ·
       <a href="/projects/" class="text-link">Projects</a> ·
